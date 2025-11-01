@@ -125,7 +125,7 @@ body {
 
 .footer{
     background-color:var(--color-cuartiario);
-    padding: 1.5rem;
+    padding: 3%;
     color: var(--color-secundario);
     text-align: center;
     font-family: var(--fuente-montserrat);
